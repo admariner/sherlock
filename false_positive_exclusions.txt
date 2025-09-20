@@ -1,6 +1,7 @@
 APClips
 Coders Rank
 CyberDefenders
+Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,7 +11,6 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Reddit
 Roblox
 RocketTube
@@ -23,4 +23,3 @@ YandexMusic
 kaskus
 svidbook
 threads
-xHamster
