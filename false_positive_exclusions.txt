@@ -1,7 +1,6 @@
 APClips
+CGTrader
 Coders Rank
-CyberDefenders
-Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
@@ -17,10 +16,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
