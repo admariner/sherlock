@@ -1,5 +1,4 @@
 APClips
-CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,13 +12,10 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-eintracht
 kaskus
 opennet
 svidbook
