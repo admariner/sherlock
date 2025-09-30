@@ -2,6 +2,7 @@ APClips
 Coders Rank
 GNOME VCS
 Giphy
+Gravatar
 HackerEarth
 Heavy-R
 LessWrong
@@ -12,7 +13,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
