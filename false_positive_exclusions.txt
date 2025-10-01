@@ -1,8 +1,10 @@
 APClips
+Archive of Our Own
+Chatujme.cz
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
-Gravatar
 HackerEarth
 Heavy-R
 LessWrong
@@ -20,6 +22,5 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
