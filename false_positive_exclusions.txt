@@ -1,10 +1,9 @@
 APClips
-BoardGameGeek
+Audiojungle
 Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
 LushStories
 PepperIT
@@ -13,7 +12,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
