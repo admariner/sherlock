@@ -1,11 +1,13 @@
 APClips
+Archive of Our Own
+Audiojungle
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
-HackerEarth
 Heavy-R
 LessWrong
 LushStories
-PepperIT
 PocketStars
 Reddit
 RocketTube
@@ -16,3 +18,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
