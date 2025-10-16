@@ -1,12 +1,9 @@
 APClips
-Archive of Our Own
-Audiojungle
+BreachSta.rs Forum
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
 LushStories
 PocketStars
 Reddit
@@ -16,6 +13,4 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster
