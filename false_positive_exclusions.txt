@@ -1,17 +1,19 @@
 APClips
 Archive.org
-DeviantArt
-Flipboard
+Coders Rank
 GNOME VCS
 Giphy
+LemmyWorld
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
+xHamster
