@@ -1,9 +1,8 @@
 APClips
 Archive.org
-Coders Rank
 GNOME VCS
 Giphy
-LemmyWorld
+Harvard Scholar
 LushStories
 Minecraft
 PocketStars
@@ -16,4 +15,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
