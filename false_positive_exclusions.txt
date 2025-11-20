@@ -1,16 +1,18 @@
 APClips
-Archive.org
+DeviantArt
 GNOME VCS
 Giphy
-Minecraft
+LiveJournal
+LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
 phpRU
 svidbook
