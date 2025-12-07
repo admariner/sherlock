@@ -1,7 +1,7 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -11,7 +11,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster
