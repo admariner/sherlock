@@ -7,7 +7,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
 Minecraft
 PocketStars
@@ -17,8 +16,8 @@ SlideShare
 Splice
 Spotify
 Trovo
-TryHackMe
 Weblate
 YandexMusic
 opennet
 svidbook
+threads
