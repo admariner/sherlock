@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,9 +9,8 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
