@@ -7,14 +7,14 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -26,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
