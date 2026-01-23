@@ -1,10 +1,8 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -24,4 +22,3 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
-xHamster
