@@ -6,8 +6,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 Hubski
-LushStories
 PocketStars
 Realmeye
 Reddit
@@ -24,3 +24,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
