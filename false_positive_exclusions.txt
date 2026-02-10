@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -16,7 +15,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
