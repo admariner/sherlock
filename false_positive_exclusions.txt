@@ -1,8 +1,8 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Cracked Forum
 DeviantArt
-Dribbble
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -13,7 +13,6 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -27,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
