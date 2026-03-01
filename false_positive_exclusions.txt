@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Codolio
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -7,12 +8,12 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+PCGamer
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -23,7 +24,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
