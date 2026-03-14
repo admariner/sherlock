@@ -5,25 +5,23 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
@@ -32,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
