@@ -1,14 +1,15 @@
 APClips
 Archive.org
 Codolio
-GNOME VCS
+DeviantArt
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
-OurDJTalk
 Patched
 PocketStars
 Rarible
@@ -19,8 +20,10 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
