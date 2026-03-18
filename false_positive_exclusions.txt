@@ -2,16 +2,14 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
-LushStories
 Patched
 PocketStars
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -20,7 +18,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
