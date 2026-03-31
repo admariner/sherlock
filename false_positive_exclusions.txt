@@ -1,8 +1,8 @@
+7Cups
 APClips
 Archive.org
 Codolio
-DeviantArt
-DigitalSpy
+Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
@@ -22,7 +22,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -31,4 +30,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
