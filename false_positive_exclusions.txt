@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -22,6 +23,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -30,5 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
