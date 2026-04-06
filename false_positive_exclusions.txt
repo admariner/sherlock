@@ -1,9 +1,9 @@
 7Cups
 APClips
 Archive.org
-Carbonmade
-Chatujme.cz
+Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -20,10 +20,12 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
