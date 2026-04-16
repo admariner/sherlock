@@ -1,6 +1,5 @@
 7Cups
 APClips
-Academia.edu
 Apple Discussions
 Archive.org
 Bandcamp
@@ -12,13 +11,13 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
-ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -31,7 +30,6 @@ TryHackMe
 Weblate
 YandexMusic
 dailykos
-igromania
 interpals
 mercadolivre
 opennet
