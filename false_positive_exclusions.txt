@@ -11,7 +11,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Pornhub
@@ -21,6 +21,7 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -35,3 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
