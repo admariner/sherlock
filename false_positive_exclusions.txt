@@ -12,9 +12,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -23,7 +21,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
@@ -36,5 +33,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
-xHamster
