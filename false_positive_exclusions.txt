@@ -1,18 +1,20 @@
 7Cups
 APClips
 Airliners
-AniWorld
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
 Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Motherless
 Patched
 Pornhub
@@ -37,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
