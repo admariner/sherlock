@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,10 +7,10 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
@@ -41,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
