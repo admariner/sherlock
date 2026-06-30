@@ -1,10 +1,14 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
+DEV Community
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -25,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -37,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
