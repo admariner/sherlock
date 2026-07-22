@@ -10,12 +10,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
 Rarible
@@ -23,7 +23,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
