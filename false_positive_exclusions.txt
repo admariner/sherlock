@@ -11,13 +11,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
-LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -26,7 +25,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -44,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
