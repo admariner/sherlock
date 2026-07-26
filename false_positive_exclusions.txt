@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,10 +10,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -29,9 +28,9 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -42,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
