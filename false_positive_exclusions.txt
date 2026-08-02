@@ -19,6 +19,7 @@ Hubski
 Instapaper
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -34,7 +35,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
