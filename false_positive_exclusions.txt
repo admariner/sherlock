@@ -22,7 +22,6 @@ Odysee
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -37,7 +36,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
