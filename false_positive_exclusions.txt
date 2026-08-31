@@ -9,7 +9,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,12 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -37,6 +33,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
