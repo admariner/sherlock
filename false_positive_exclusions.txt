@@ -18,9 +18,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -31,7 +33,6 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
 Trakt
