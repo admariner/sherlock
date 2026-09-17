@@ -8,7 +8,6 @@ CGTrader
 Championat
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,8 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
-Minecraft
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -33,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
