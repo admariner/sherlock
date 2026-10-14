@@ -5,10 +5,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -36,8 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Status Cafe
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
