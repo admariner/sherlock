@@ -1,11 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -22,9 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,7 +31,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
