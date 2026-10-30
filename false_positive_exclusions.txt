@@ -11,23 +11,20 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 Minecraft
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,9 +37,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
@@ -54,3 +49,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
