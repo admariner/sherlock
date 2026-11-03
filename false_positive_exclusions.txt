@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -34,6 +33,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
