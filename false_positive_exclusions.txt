@@ -8,6 +8,7 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -27,10 +28,11 @@ Shelf
 SlideShare
 Splice
 Spotify
+TnAFlix
+Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
