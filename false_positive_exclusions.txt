@@ -8,13 +8,15 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
+Dribbble
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
+HudsonRock
 Instapaper
+Laracast
 ObservableHQ
 Odysee
 PCGamer
@@ -28,8 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TnAFlix
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -44,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
