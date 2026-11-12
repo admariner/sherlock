@@ -13,7 +13,9 @@ GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
+Ifunny
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -42,4 +44,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-threads
+xHamster
