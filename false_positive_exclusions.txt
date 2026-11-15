@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BabyRu
 Blogger
 Championat
 Chatujme.cz
@@ -11,11 +12,11 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -34,6 +35,7 @@ TryHackMe
 Velomania
 Vero
 YandexMusic
+authorSTREAM
 dailykos
 fixya
 hunting
@@ -43,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
