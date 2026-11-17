@@ -3,11 +3,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -16,9 +15,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Linktree
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
