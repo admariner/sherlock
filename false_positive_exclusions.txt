@@ -2,7 +2,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+BabyRu
 Chatujme.cz
 Codolio
 DeviantArt
@@ -39,7 +39,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
